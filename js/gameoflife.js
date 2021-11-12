@@ -1,6 +1,4 @@
-function seed() {
-	return ...arg;
-}
+function seed() {}
 
 function same([x, y], [j, k]) {}
 
